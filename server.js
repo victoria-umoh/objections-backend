@@ -10,10 +10,29 @@ const PORT = process.env.PORT || 5000;
 // 1. MIDDLEWARE
 // CORS configuration to allow frontend access
 const corsOptions = {
-  origin: [
-    process.env.FRONTEND_URL || 'https://objection-handling-app.netlify.app',
-    process.env.FRONTEND_URL_LOCAL || 'http://localhost:3000'
-  ],
+  origin: function (origin, callback) {
+    const allowedOrigins = [
+      process.env.FRONTEND_URL || 'https://objection-handling-app.netlify.app',
+      /^http:\/\/localhost:\d+$/,  // Allow any localhost port
+      /^http:\/\/127\.0\.0\.1:\d+$/ // Allow any 127.0.0.1 port
+    ];
+    
+    // Allow requests with no origin (like mobile apps or curl requests)
+    if (!origin) return callback(null, true);
+    
+    const isAllowed = allowedOrigins.some(allowed => {
+      if (typeof allowed === 'string') {
+        return allowed === origin;
+      }
+      return allowed.test(origin);
+    });
+    
+    if (isAllowed) {
+      callback(null, true);
+    } else {
+      callback(new Error('Not allowed by CORS'));
+    }
+  },
   credentials: true,
   optionsSuccessStatus: 200
 };
