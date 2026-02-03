@@ -51,7 +51,7 @@ app.use("/api", objectionRoutes);
 
 // Health Check
 app.get("/", (req, res) => {
-  res.send("Objection API is running");
+  res.send("Objection API is running - Discovery Scripts enabled");
 });
 
 // 4. START SERVER
