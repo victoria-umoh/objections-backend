@@ -1,0 +1,170 @@
+[
+  {
+    "title": "1. Not Interested",
+    "scripts": {
+      "calm": "I understand deciding on life insurance can be overwhelming and it's natural to take time to consider your options.",
+      "confident": "Many clients feel the same, but taking even a small step now can provide peace of mind and lock in better rates. The younger and healthier you are, the more affordable life insurance is.",
+      "close": "Have you decided to postpone or do you have a policy in place? I'll guide you through the process step by step."
+    }
+  },
+  {
+    "title": "2. Wrong Number",
+    "scripts": {
+      "calm": "I apologize for the inconvenience then. I was looking for the client because I was about to follow up with them about tailoring a Life Insurance quote.",
+      "confident": "But since you've picked up I'm super happy that we are talking! We actually offer a variety of insurance solutions.",
+      "close": "I'd love to share some information that might be useful to you or someone you know. Let me ask you..."
+    }
+  },
+  {
+    "title": "3. How did you get my info?",
+    "scripts": {
+      "calm": "I definitely understand why you might want to be cautious. Your information was shared because you previously showed interest in insurance on social media or online ads.",
+      "confident": "At Specialty Life Insurance, we work with trusted partners who help us connect with people who may benefit from our services.",
+      "close": "Let me quickly confirm a few details so we can make sure this is actually relevant for you. Does that sound fair?"
+    }
+  },
+  {
+    "title": "4. Cannot Afford It",
+    "scripts": {
+      "calm": "I understand, the economy is not good and a lot of Canadians are struggling to make ends meet right now.",
+      "confident": "This is exactly why we called. Life Insurance is not for wealthy people, it's for protecting families from financial burden once we are gone.",
+      "close": "We can provide you with a customized quote to save in your email for when you are ready. What is your best email?"
+    }
+  },
+  {
+    "title": "5. Email Objection",
+    "scripts": {
+      "calm": "I definitely don't want to waste your time. If we just send a general email, it won't be accurate for your specific age and health.",
+      "confident": "Here in SLI we customize the quotes for our clients; that way our options end up being a lot more inexpensive than a general quote.",
+      "close": "I'll have the advisor join for just a moment to customize that for you. Are you near your email now?"
+    }
+  },
+  {
+    "title": "6. Prices Online High",
+    "scripts": {
+      "calm": "I completely understand why you might feel like the prices online are too expensive. Online info is usually very generic.",
+      "confident": "That is why it's beneficial to have a short discussion with an advisor to provide a personalized and relevant quote based on your actual budget.",
+      "close": "It only takes a moment to see the real rates. Let me verify your profile here."
+    }
+  },
+  {
+    "title": "7. Fraud / Scam",
+    "scripts": {
+      "calm": "I completely understand. It's smart to be cautious these days. Our number shows as a VoIP service which is standard industry practice.",
+      "confident": "We are a legit Canadian-based company in Concord, Ontario, in business for 14 years. You can verify our credentials on the Department of Insurance website.",
+      "close": "I'll be happy to provide our credentials. Let me quickly verify who I am speaking with first."
+    }
+  },
+  {
+    "title": "8. Not Expecting Call",
+    "scripts": {
+      "calm": "That's completely understandable! I'm calling to help you get a customized quote that will be much more inexpensive than online rates.",
+      "confident": "My goal is to save you money while providing the best possible coverage options for your family.",
+      "close": "To not waste too much of your time, let me quickly confirm your details here."
+    }
+  },
+  {
+    "title": "9. Voicemail",
+    "scripts": {
+      "calm": "I completely understand your point of view. The reason we do not leave voicemails is to protect your privacy.",
+      "confident": "Because we deal with personal, private, and sensitive health information, we only speak directly with our clients.",
+      "close": "Now that we have you on the line, let's see if we can get you that information you were looking for."
+    }
+  },
+  {
+    "title": "10. No Family / Suicidal",
+    "scripts": {
+      "calm": "Many people feel life insurance is only for those with dependents, and I hear that a lot.",
+      "confident": "However, it still protects your financial legacy—covering final expenses, debts, or leaving a gift to a cause you care about while locking in low rates.",
+      "close": "In case your needs change in the future, it's best to have this in place. Do you have a plan for final expenses?"
+    }
+  },
+  {
+    "title": "11. Online Reviews",
+    "scripts": {
+      "calm": "I completely understand your concern. Online reviews are important and we take customer feedback very seriously.",
+      "confident": "At Specialty Life, we strive to prioritize our clients and ensure they are well taken care of with coverage that truly suits their needs.",
+      "close": "I'd love the opportunity to show you our service first-hand. Let me quickly verify your profile here."
+    }
+  },
+  {
+    "title": "12. Previously Rejected",
+    "scripts": {
+      "calm": "I apologize for that experience. Many companies have very strict medical requirements.",
+      "confident": "We offer guaranteed coverage options with no medical exams involved in any of our policies. Even if you've been declined before, we can help.",
+      "close": "Let me see which of our guaranteed products fits you best. How long ago was the decline?"
+    }
+  },
+  {
+    "title": "13. Won't Agree to Recording",
+    "scripts": {
+      "calm": "I completely understand your point of view. It's understandable to have privacy concerns when talking about personal health.",
+      "confident": "You can rest assured that these concerns have been considered and we use high-level security to protect your data.",
+      "close": "This is a standard requirement to ensure your quote is handled accurately. Shall we continue with the verification?"
+    }
+  },
+  {
+    "title": "14. Refuses to Verify Info",
+    "scripts": {
+      "calm": "I totally understand and respect your point of view. Privacy is very important.",
+      "confident": "However, age and health are essential factors for life insurance. We have to make sure the information on our end is correct to give you a valid price.",
+      "close": "I want to make sure I don't give you a wrong quote. Can we just verify the year of birth?"
+    }
+  },
+  {
+    "title": "15. Other Insurances (Travel/Auto)",
+    "scripts": {
+      "calm": "I apologize, we don't offer those specific products like dental or auto insurance.",
+      "confident": "However, we specialize in affordable life insurance that protects your family's future at a very low cost.",
+      "close": "While I have you here, let's see what customized life options you qualify for. It only takes 2 minutes."
+    }
+  },
+  {
+    "title": "17. Haven't Made Inquiry",
+    "scripts": {
+      "calm": "I understand where you're coming from. I have your name and date of birth here on my record.",
+      "confident": "It's possible a loved one or spouse inquired on your behalf. Our priority is just providing value to those who might benefit from coverage.",
+      "close": "Do you currently have a plan in place to ensure your family doesn't have to pay out of pocket for final expenses?"
+    }
+  },
+  {
+    "title": "18. Just provide price",
+    "scripts": {
+      "calm": "I completely understand that, and providing the price is exactly the reason for this call!",
+      "confident": "Because rates are based on your specific details, I just need to complete your profile to customize that quote for your budget.",
+      "close": "To not waste your time, let's finish these last two details. What is your current height?"
+    }
+  },
+  {
+    "title": "20. Insurance thru work",
+    "scripts": {
+      "calm": "That's great! It's good to have that part covered. However, most work policies don't stay with you if you switch jobs.",
+      "confident": "We need a 'Plan B' that you own personally. We can customize a free quote so you can compare it to your work policy and see the difference.",
+      "close": "Would you like to see what a portable policy looks like for your age? It's often cheaper than people think."
+    }
+  },
+  {
+    "title": "21. Shopping Around",
+    "scripts": {
+      "calm": "I totally understand. It's smart to compare options when looking for the best protection.",
+      "confident": "We called to present you some quotes with no obligation at all so you can compare our products with what other companies have to offer.",
+      "close": "At least you'll have our rates as a benchmark. Let's see how our numbers look for you."
+    }
+  },
+  {
+    "title": "24. Already have policy with you",
+    "scripts": {
+      "calm": "It's great that you have already taken steps to secure a policy with us!",
+      "confident": "We are calling to check if you need any upgrades or to ensure your coverage still fits your current needs.",
+      "close": "I have an advisor ready to examine your current plan and see if we can improve your benefits. Is that okay?"
+    }
+  },
+  {
+    "title": "27. I am busy / Callback",
+    "scripts": {
+      "calm": "I completely understand your time is valuable and I won't keep you long.",
+      "confident": "This will only take a couple of minutes to show you what you qualify for so you don't have to worry about it later.",
+      "close": "Shall we quickly confirm your details, or is there a better time in the next 10 minutes?"
+    }
+  }
+]
