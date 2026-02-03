@@ -8,8 +8,16 @@ const app = express();
 const PORT = process.env.PORT || 5000;
 
 // 1. MIDDLEWARE
-// Only keep global configuration here
-app.use(cors());
+// CORS configuration to allow frontend access
+const corsOptions = {
+  origin: [
+    process.env.FRONTEND_URL || 'https://objection-handling-app.netlify.app',
+    process.env.FRONTEND_URL_LOCAL || 'http://localhost:3000'
+  ],
+  credentials: true,
+  optionsSuccessStatus: 200
+};
+app.use(cors(corsOptions));
 app.use(express.json());
 
 // 2. DATABASE CONNECTION
